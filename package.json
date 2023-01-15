@@ -1,0 +1,13 @@
+{
+  "name": "tests2",
+  "version": "1.0.0",
+  "description": "Playwright end-to-end-tests",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["playwright","automation","testing"],
+  "author": "Valenty",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
